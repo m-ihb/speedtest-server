@@ -17,9 +17,9 @@ curl -Lso- https://raw.githubusercontent.com/m-ihb/speedtest-servers/master/scri
 
 The result should be like this:
 
-[![A youtube video of BALITA cartoon]
+![![A youtube video of BALITA cartoon]
 (https://img.youtube.com/vi/AAh-0Ij4vVY/maxresdefault.jpg)]
-(https://www.youtube.com/watch?v=AAh-0Ij4vVY)
+(https://www.youtube.com/watch?v=AAh-0Ij4vVY)]
 
 
 
