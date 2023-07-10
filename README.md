@@ -14,15 +14,15 @@ or
 curl -Lso- https://raw.githubusercontent.com/m-ihb/speedtest-server/master/script.sh | bash
 ```
 
-The result should be like this:
+The result out put will be as the following:
 
 ...
 
 # To ADD or to REMOVE the speedtest servers 
 
-First you need to clone this repository, and edit the `script.sh` files, you can search the server's id number from this page: [Speedtest List Server](https://williamyaps.github.io/wlmjavascript/servercli.html)
+Clone this repository, and edit the `script.sh` files, you can search the server's id number from this page: [Speedtest List Server](https://williamyaps.github.io/wlmjavascript/servercli.html)
 
-The line that you must edit:
+The code line(s) that needs to be editted:
 
 ```bash
 speed() {
@@ -42,6 +42,5 @@ speed() {
 }
 ```
 
-**Note:** Change the number with server id.
 
 
