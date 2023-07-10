@@ -1,8 +1,7 @@
-# speedtest-servers
-this is repository of script for server (VPS/Baremetal) speedtesting
+# Speedtest-server
+This is repository of script for server (VPS/Baremetal) bandwidth speedtesting. The script focuses on local(Indonesian) servers, and some International Cities.
 
-# How To Use
-
+# User Guide
 Run this command ~~
 
 ```bash
@@ -17,25 +16,29 @@ curl -Lso- https://raw.githubusercontent.com/m-ihb/speedtest-server/master/scrip
 
 The result should be like this:
 
-![](https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/leon/result-speed.png)
+...
 
-# Change the speedtest server
+# To ADD or to REMOVE the speedtest servers 
 
-First you need to clone this repository, and edit the `script.sh` files, you can search the servers id from this page: [Speedtest List Server](https://williamyaps.github.io/wlmjavascript/servercli.html)
+First you need to clone this repository, and edit the `script.sh` files, you can search the server's id number from this page: [Speedtest List Server](https://williamyaps.github.io/wlmjavascript/servercli.html)
 
 The line that you must edit:
 
 ```bash
 speed() {
     speed_test '' 'Speedtest.net'
-    speed_test '7582'  'Telkom JKT    ID'
-    speed_test '797'  'Biznet  ID'
-    speed_test '5935' 'My Republic  SG'
-    speed_test '4802' 'FirstMedia  ID'
+    speed_test '7582'  'Telkom JKT-Indihome-ID'
     speed_test '12807' 'CBN JKT  ID'
-    speed_test '16398' 'CN Mobile   CN'
-    speed_test '3242'  'Netherland   NL'
-    speed_test '14623' 'Japan      JP'
+    speed_test '797'  'Biznet Networks  JKT ID'
+    speed_test '8579' 'Biznet Gio  JKT'
+    speed_test '11118' 'MyRepublic Indonesia JKT'
+    speed_test '6612' 'First Media JKT'
+    speed_test '13954' 'MNC Play Media JKT'
+    speed_test '3822' 'PT Telkomsel - JKT'
+    speed_test '10730' 'PT XL Axiata Tbk - JKT'
+    speed_test '4764' 'Indosat IM3-JKT'
+    speed_test '4210' 'PT Smartfred Telecom JKT'
+...
 }
 ```
 
