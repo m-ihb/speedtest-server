@@ -17,11 +17,7 @@ curl -Lso- https://raw.githubusercontent.com/m-ihb/speedtest-servers/master/scri
 
 The result should be like this:
 
-[![A youtube video of BALITA cartoon]
-(https://img.youtube.com/vi/AAh-0Ij4vVY/maxresdefault.jpg)]
-(https://www.youtube.com/watch?v=AAh-0Ij4vVY)]
-
-
+[![A youtube video of BALITA cartoon](https://img.youtube.com/vi/AAh-0Ij4vVY/maxresdefault.jpg)](https://www.youtube.com/watch?v=AAh-0Ij4vVY)]
 
 ![](https://cdn-blinux.s3-id-jkt-1.kilatstorage.id/post/leon/result-speed.png)
 
