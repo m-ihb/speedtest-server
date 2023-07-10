@@ -5,13 +5,13 @@ This is repository of script for server (VPS/Baremetal) bandwidth speedtesting. 
 Run this command ~~
 
 ```bash
-wget -qO- https://raw.githubusercontent.com/m-ihb/speedtest-server/master/script.sh | bash
+wget -qO- https://raw.githubusercontent.com/m-ihb/speedtest-server/main/script.sh | bash
 ```
 
 or
 
 ```bash
-curl -Lso- https://raw.githubusercontent.com/m-ihb/speedtest-server/master/script.sh | bash
+curl -Lso- https://raw.githubusercontent.com/m-ihb/speedtest-server/main/script.sh | bash
 ```
 
 The result out put will be as the following:
