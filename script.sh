@@ -77,8 +77,7 @@ speed() {
     speed_test '' 'Speedtest.net'
     speed_test '7582'  'Telkom JKT-Indihome-ID'
     speed_test '797'  'Biznet Networks  JKT ID'
-    #speed_test '5935' 'My Republic  SG'
-    #speed_test '4802' 'FirstMedia SBY ID'
+
     speed_test '12807' 'CBN JKT  ID'
     
     # MA-ADD-001 START
@@ -101,7 +100,7 @@ speed() {
     speed_test '20478' 'Contabo Nuremberg Germany DE'
     speed_test '31470' 'Deutche Telekom Munich Germany DE' 
     speed_test '19352' 'VULTR - New Jersey -  US'
-    speed_test '5086' 'Google Palo Alto CA US
+    speed_test '5086' 'Google Palo Alto CA US'
     # MA-ADD-001 END
     
     #speed_test '16398' 'CN Mobile   CN'
