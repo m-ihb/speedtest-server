@@ -41,4 +41,4 @@ speed() {
 
 **Note:** Change the number with server id.
 
-Cheers ~~
+
