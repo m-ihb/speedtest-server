@@ -75,31 +75,38 @@ speed_test() {
 
 speed() {
     speed_test '' 'Speedtest.net'
-    speed_test '7582'  'Telkom JKT    ID'
+    speed_test '7582'  'Telkom JKT-Indihome-ID'
     speed_test '797'  'Biznet Networks  JKT ID'
-    speed_test '5935' 'My Republic  SG'
-    speed_test '4802' 'FirstMedia  ID'
+    #speed_test '5935' 'My Republic  SG'
+    #speed_test '4802' 'FirstMedia SBY ID'
     speed_test '12807' 'CBN JKT  ID'
     
     # MA-ADD-001 START
-    speed_test '46362' 'MyRepublic Indonesia JKT'
+    speed_test '8579' 'Biznet Gio  JKT'
+    speed_test '11118' 'MyRepublic Indonesia JKT'
     speed_test '6612' 'First Media JKT'
-    speed_test '54756' 'MNC Play Media JKT'
-    speed_test '35143' 'PT Telkomsel - East Jakarta JKT'
-    speed_test '42688' 'PT XL Axiata Tbk - SG'
-    speed_test '14325' 'Indosat IM3 - Hutchison 3 Indonesia CGK-MM'
-    speed_test '56632' 'Indihome - PT. Telekomunikasi Indonesia JKT'
-    speed_test '13623' 'Singtel SG'
+    speed_test '13954' 'MNC Play Media JKT'
+    speed_test '3822' 'PT Telkomsel - JKT'
+    speed_test '10730' 'PT XL Axiata Tbk - JKT'
+    speed_test '4764' 'Indosat IM3-JKT'
+    speed_test '4210' 'PT Smartfred Telecom JKT'
+    #speed_test '7582' 'Indihome - PT Telkom JKT'
+    speed_test '3914' 'Singtel SG'
     speed_test '4235' 'StarHub Ltd SG'
-    speed_test '7331' 'M1 Limited SG'
+    speed_test '7311' 'M1 Limited SG'
+    speed_test '5935' 'My Republic  SG'
+    speed_test '20637' 'OVH Singapore SG'
+    speed_test '15586' 'OVH Paris FR'
     speed_test '21514' 'Contabo Munich Germany DE'
     speed_test '20478' 'Contabo Nuremberg Germany DE'
-    speed_test '31470' 'Deutche Telekom Munich Germany DE ' 
+    speed_test '31470' 'Deutche Telekom Munich Germany DE' 
+    speed_test '19352' 'VULTR - New Jersey -  US'
+    speed_test '5086' 'Google Palo Alto CA US
     # MA-ADD-001 END
     
-    speed_test '16398' 'CN Mobile   CN'
-    speed_test '3242'  'Netherland   NL'
-    speed_test '14623' 'Japan      JP'
+    #speed_test '16398' 'CN Mobile   CN'
+    #speed_test '3242'  'Netherland   NL'
+    #speed_test '14623' 'Japan      JP'
 }
 
 ipv4_info() {
