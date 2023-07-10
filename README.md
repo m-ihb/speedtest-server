@@ -1,10 +1,7 @@
 # speedtest-servers
 this is repository of script for server (VPS/Baremetal) speedtesting
 
-# multi-speedtest
-Multi speedtest base on bench.sh with some modification on script ~
-
-# Ho To Use
+# How To Use
 
 Run this command ~~
 
