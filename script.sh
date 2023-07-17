@@ -94,7 +94,7 @@ speed() {
     speed_test '20478' 'Contabo Nuremberg - DE'
     speed_test '31470' 'Deutche Telekom Munich - DE' 
    
-    speed_test '42423' 'Foxhost (@ Hetzner) - Falkenstein - DE'
+    speed_test '42423' 'Foxhost - at Hetzner - Falkenstein - DE'
     speed_test '22669' 'Elisa Oyj - HE'
     speed_test '14928' 'Telia - Finland - Helsinki - HE'
     speed_test '14164' 'DNA Welho Oy - HE'
