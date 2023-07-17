@@ -84,13 +84,11 @@ speed() {
     speed_test '13954' 'MNC Play Media JKT'
     speed_test '3822' 'PT Telkomsel - JKT'
     speed_test '10730' 'PT XL Axiata Tbk - JKT'
-    #ERROR #speed_test '4764' 'Indosat IM3-JKT'
-    #ERROR #speed_test '4210' 'PT Smartfren Telecom JKT'
-    #speed_test '7582' 'Indihome - PT Telkom JKT'
+
     speed_test '3914' 'Singtel SG'
     speed_test '4235' 'StarHub Ltd SG'
     speed_test '7311' 'M1 Limited SG'
-    speed_test '5935' 'My Republic  SG'
+    speed_test '5935' 'My Republic SG'
   
     speed_test '21514' 'Contabo Munich Germany - DE'
     speed_test '20478' 'Contabo Nuremberg - DE'
@@ -98,9 +96,12 @@ speed() {
    
     speed_test '42423' 'Foxhost (@ Hetzner) - Falkenstein - DE'
     speed_test '22669' 'Elisa Oyj - HE'
-    speed_test '14928' 'Telia - Finland / Helsinki - HE'
-    speed_test '14164' ' DNA Welho Oy - HE'
-    
+    speed_test '14928' 'Telia - Finland - Helsinki - HE'
+    speed_test '14164' 'DNA Welho Oy - HE'
+
+    #ERROR #speed_test '4764' 'Indosat IM3-JKT'
+    #ERROR #speed_test '4210' 'PT Smartfren Telecom JKT'
+    #ERROR speed_test '7582' 'Indihome - PT Telkom JKT'
     #ERROR# speed_test '20637' 'OVH Singapore SG'
     #ERROR #speed_test '15586' 'OVH Paris FR'
     #ERROR # speed_test '19352' 'VULTR - New Jersey -  US'
