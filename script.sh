@@ -2,9 +2,6 @@
 #
 # Description: Auto test download & I/O speed script
 #
-# Copyright (C) 2015 - 2020 Teddysun <i@teddysun.com>
-# Thanks: LookBack <admin@dwhd.org>
-# URL: https://teddysun.com/444.html
 #
 
 
@@ -101,6 +98,9 @@ speed() {
     speed_test '31470' 'Deutche Telekom Munich Germany DE' 
     #ERROR # speed_test '19352' 'VULTR - New Jersey -  US'
     #ERROR #speed_test '5086' 'Google Palo Alto CA US'
+    speed_test '22669' 'Elisa Oyj - HE'
+    speed_test '14928' 'Telia - HE'
+    speed_test '14164' ' DNA Welho Oy - HE'
     # MA-ADD-001 END
     
     #speed_test '16398' 'CN Mobile   CN'
