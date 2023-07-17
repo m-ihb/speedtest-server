@@ -98,6 +98,7 @@ speed() {
     speed_test '31470' 'Deutche Telekom Munich Germany DE' 
     #ERROR # speed_test '19352' 'VULTR - New Jersey -  US'
     #ERROR #speed_test '5086' 'Google Palo Alto CA US'
+    speed_test '42423' ' Foxhost (at Hetzner) Germany - DE
     speed_test '22669' 'Elisa Oyj - HE'
     speed_test '14928' 'Telia - HE'
     speed_test '14164' ' DNA Welho Oy - HE'
